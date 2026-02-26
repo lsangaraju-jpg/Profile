@@ -89,7 +89,7 @@
 <br><br>
 <p align="center">
   <marquee direction="right" scrollamount="4">
-    🌱 I’m currently learning <b>Advanced AWS, Kubernetes, Distributed Systems and few more...</b>
+    🌱 I’m currently learning <b>Advanced AWS, Kubernetes, Distributed Systems, and a few more...</b>
   </marquee>
 </p>
 
